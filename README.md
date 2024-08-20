@@ -8,7 +8,7 @@
 - Open report: `npm run report`
 
 ## File Structure
-
+```bash
 📦MOBILE-APP-TEST-AUTOMATION
  ┣ 📂apps  
  ┃ ┣📜courier-app-v2.3.3-widget-keys.apk
@@ -30,3 +30,4 @@
  ┣ 📜package.json
  ┣ 📜README.md
  ┣ 📜tsconfig.json
+```
