@@ -2,8 +2,8 @@
 
 - Run `npm install`
 - Install Appium on a local machine or if you already had appium installed run `npm link appium`
-- Set variables Android and iOS on a local machine
-- Open and config Android and iOS simulators
+- Set variables Android on a local machine
+- Open and config Android
 - Run tests using `npm run android.app`
 - Open report: `npm run report`
 
